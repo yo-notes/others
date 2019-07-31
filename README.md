@@ -1,1 +1,3 @@
-# others
+# other notes
+
+* [redux](./redux)
